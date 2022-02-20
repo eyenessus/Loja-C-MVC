@@ -1,0 +1,20 @@
+
+@model List<ItemOrcamento>
+    @{
+    ViewData["Title"] = "Listagem de Orçamentos";
+}
+<h1>@ViewData["Title"]</h1>
+<table>
+    <tr>
+        <td>Cliente</td>
+        <td>Procedimento</td>
+    </tr>
+
+@foreach (ItemOrcamento item in Model){
+    <tr>
+        <td>@item.Nome</td>
+        <td>@item.Procedimento</td>
+
+    </tr>
+}
+</table>

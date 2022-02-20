@@ -1,0 +1,19 @@
+@model ItemOrcamento
+@{
+    ViewData["Title"] = "Orçamentos";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="POST" asp-action="Cadastro">
+    <p>
+        <label asp-for="Nome">Informe seu nome: </label>
+        <input asp-for="Nome">
+    </p>
+    <p>
+        <label asp-for="Procedimento">Procedimento: </label>
+        <select asp-for="Procedimento">
+            <option value="Restaurações">Restaurações</option>
+            <option value="Limpeza Simples">Limpeza Simples</option>
+        </select>
+    </p>
+    <input type="submit" name="Enviar">
+</form>

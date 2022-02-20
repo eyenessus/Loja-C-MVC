@@ -1,0 +1,88 @@
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.csproj.AssemblyReference.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.AssemblyInfoInputs.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.AssemblyInfo.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.RazorAssemblyInfo.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.RazorAssemblyInfo.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.dll
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\ref\Loja.dll
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.pdb
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\appsettings.json
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.exe
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.deps.json
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.runtimeconfig.json
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.runtimeconfig.dev.json
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.dll
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\ref\Loja.dll
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.pdb
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.Views.dll
+C:\Users\nessu\Desktop\Loja\bin\Debug\net5.0\Loja.Views.pdb
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\staticwebassets\Loja.StaticWebAssets.Manifest.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\staticwebassets\Loja.StaticWebAssets.xml
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\scopedcss\bundle\Loja.styles.css
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.TagHelpers.input.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.TagHelpers.output.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.RazorCoreGenerate.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.RazorTargetAssemblyInfo.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.RazorTargetAssemblyInfo.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.Views.pdb
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.genruntimeconfig.cache
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Loja.csproj.CopyComplete
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Procedimentos.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Depoimentos.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Orcamento.cshtml.g.cs
+C:\Users\nessu\Desktop\Loja\obj\Debug\net5.0\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\appsettings.json
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.exe
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.deps.json
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.runtimeconfig.json
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.runtimeconfig.dev.json
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.dll
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\ref\Loja.dll
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.pdb
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.Views.dll
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\bin\Debug\net5.0\Loja.Views.pdb
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.csproj.AssemblyReference.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.AssemblyInfoInputs.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.AssemblyInfo.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.RazorAssemblyInfo.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.RazorAssemblyInfo.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\staticwebassets\Loja.StaticWebAssets.Manifest.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\staticwebassets\Loja.StaticWebAssets.xml
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\scopedcss\bundle\Loja.styles.css
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.TagHelpers.input.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.TagHelpers.output.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.RazorCoreGenerate.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Depoimentos.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Orcamento.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Home\Procedimentos.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.RazorTargetAssemblyInfo.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.RazorTargetAssemblyInfo.cs
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.Views.pdb
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.dll
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\ref\Loja.dll
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.pdb
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.genruntimeconfig.cache
+C:\Users\nessu\Desktop\FORMAÇÃO\LINGUAGEM DE PROGRAMACAO C#\Loja\obj\Debug\net5.0\Loja.csproj.CopyComplete
